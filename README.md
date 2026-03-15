@@ -13,6 +13,6 @@ Bu layihə kiber təhlükəsizlik öyrənməyə yeni başlayanlar üçün sadə 
 python port_scanner.py
 ## 📸 Proqramın işlək vəziyyəti
 
-![Port Skayneri 8.8.8.8 ünvanında işləyərkən](Git 1.png)
+![Port Skayneri](screenshot.png)
 
 **Nəticə:** Google DNS serverində (8.8.8.8) 53-cü port (DNS) və 443-cü port (HTTPS) açıqdır. Bu gözlənilən nəticədir.
